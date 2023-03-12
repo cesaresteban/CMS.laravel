@@ -1,0 +1,45 @@
+1
+                             'Dron Grabacíon',
+                             'Dron Grabacion',
+                             'Los drones de grabación se han convertido en una herramienta cada vez más popular en la industria audiovisual. Estos dispositivos voladores, equipados con cámaras de alta definición, permiten a los cineastas, fotógrafos y videógrafos capturar imágenes únicas y espectaculares desde perspectivas aéreas.',
+                             'Además de ser una herramienta de grabación eficaz, los drones también ofrecen una serie de ventajas prácticas. Por ejemplo, pueden llegar a lugares inaccesibles para las cámaras de tierra, lo que permite grabar imágenes de lugares remotos o de difícil acceso. También pueden ser utilizados para realizar seguimientos a objetos en movimiento, como vehículos o animales, y para capturar panoramas y vistas de gran alcance.',                             1,
+1
+                             '2023-02-07 00:00:00',
+                             'https://www.ftaviation.com.co/',
+                             'Drone1-1.jpg',
+                             NOW(),
+                             NOW()),
+                            (2,
+                             'Dron FPV',
+                             'Dron Fpv',
+                             'Los drones FPV (First Person View) son una variante de los drones de uso recreativo que permiten al usuario experimentar una experiencia de vuelo inmersiva, como si estuviera dentro del propio dron. Estos drones están equipados con cámaras que transmiten en tiempo real la imagen que ven desde su punto de vista, permitiendo al piloto ver en tiempo real la trayectoria del dron y tomar decisiones más rápidas.',
+                             'Los drones FPV son muy populares entre los pilotos de carreras, ya que les permiten navegar a través de circuitos complejos y desafiantes a velocidades impresionantes. También son muy populares entre los aficionados al videojuego que buscan una experiencia de juego más realista y desafiante.',
+1
+1
+                             '2023-02-07 00:00:00',
+                             'https://www.ftaviation.com.co/',
+                             'drocarrera.jpg',
+                             NOW(),
+                             NOW()),
+                            (3,
+                             'Dron Termico',
+                             'Dron Termico',
+                             'Los drones térmicos son una herramienta valiosa en una amplia variedad de campos, incluyendo la inspección de infraestructuras, búsqueda y rescate, seguridad pública y agricultura. Estos drones están equipados con cámaras térmicas que pueden detectar la radiación infrarroja emitida por objetos y generar imágenes en función de la temperatura.',
+                             'La capacidad de los drones térmicos para detectar y visualizar las diferencias de temperatura en el terreno puede ser especialmente útil en situaciones en las que la detección temprana de anomalías es crucial. Por ejemplo, pueden ser utilizados en la inspección de líneas eléctricas o de gas, donde una falla en la línea puede generar un aumento en la temperatura. También pueden ser utilizados para la búsqueda y rescate de personas en situaciones de emergencia, como avalanchas o incendios forestales.',
+1
+0
+                             '2023-02-07 00:00:00',
+                             'https://www.ftaviation.com.co/',
+                             'drontermico.jpg',
+                             NOW(),
+                             NOW()),
+                            (4,
+                             'Dron Agriciola',
+                             'Dron Agricola',
+                             'Los drones agrícolas son una tecnología cada vez más utilizada en la industria agrícola para mejorar la eficiencia y la productividad. Estos drones están equipados con cámaras y sensores que pueden recopilar datos sobre el terreno, como la salud de los cultivos, la humedad del suelo, la temperatura y la calidad del aire.',
+                             'La información recopilada por los drones agrícolas puede ser utilizada para tomar decisiones más informadas sobre la gestión de cultivos y la planificación de cosechas. Por ejemplo, pueden ayudar a identificar áreas de cultivo que necesitan más agua o fertilizantes, o áreas que requieren medidas específicas de control de plagas. También pueden ser utilizados para monitorear la salud de los cultivos y detectar problemas antes de que se propaguen.',
+0
+0
+                             '2023-02-07 00:00:00',
+                             'https://www.ftaviation.com.co/',
+                             'dronagricola.jpg',
